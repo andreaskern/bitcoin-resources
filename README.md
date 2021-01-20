@@ -4,6 +4,7 @@ Resources related to bitcoin
 # Looking up Live Data
 
 * [Mempool stats](https://jochen-hoenicke.de/queue/#0,24h) thanks Jochen Hoenicke
+* [Lightning locked coins](https://1ml.com/statistics)
 
 # Core
 
