@@ -1,6 +1,10 @@
 # bitcoin-resources
 Resources related to bitcoin
 
+# Services in Austria
+
+* [FMA List of Cryto Companies](https://www.fma.gv.at/unternehmensdatenbank-suche/?cname=&place=&bic=&category=2855&per_page=10&submitted=1). 
+
 # Looking up Live Data
 
 * [Mempool stats](https://jochen-hoenicke.de/queue/#0,24h) thanks Jochen Hoenicke
